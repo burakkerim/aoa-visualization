@@ -1,0 +1,1 @@
+Checkpoint and model files should be here in a directory like my_model/
